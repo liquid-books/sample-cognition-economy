@@ -16,6 +16,8 @@ project:
     equation: true
   toc:
     - file: index.md
+    - title: "Chapter 1: Thinking Is Now a Utility"
+      file: chapters/ch01-thinking-is-now-a-utility.md
 site:
   title: "The Cognition Economy: A Sample Companion"
   options:

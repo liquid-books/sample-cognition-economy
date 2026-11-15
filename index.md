@@ -22,6 +22,14 @@ Professionals and students meeting AI assistants for the first time, with no pro
 
 ## Chapters
 
-:::{note}
-The first chapter is being written.
+More chapters are on the way.
+
+::::{grid} 1 1 2 2
+
+:::{card} Chapter 1: Thinking Is Now a Utility
+:link: ./chapters/ch01-thinking-is-now-a-utility.md
+
+Follow the first lab of the course. What it means that reasoning can be bought by the minute like electricity, what an AI assistant such as Claude actually does when it answers...
 :::
+
+::::
