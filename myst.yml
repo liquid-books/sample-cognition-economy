@@ -18,6 +18,8 @@ project:
     - file: index.md
     - title: "Chapter 1: Thinking Is Now a Utility"
       file: chapters/ch01-thinking-is-now-a-utility.md
+    - title: "Chapter 2: Asking Well: From Prompts to Briefs"
+      file: chapters/ch02-asking-well-from-prompts-to-briefs.md
 site:
   title: "The Cognition Economy: A Sample Companion"
   options:

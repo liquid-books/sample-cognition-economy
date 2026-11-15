@@ -22,14 +22,18 @@ Professionals and students meeting AI assistants for the first time, with no pro
 
 ## Chapters
 
-More chapters are on the way.
-
 ::::{grid} 1 1 2 2
 
 :::{card} Chapter 1: Thinking Is Now a Utility
 :link: ./chapters/ch01-thinking-is-now-a-utility.md
 
 Follow the first lab of the course. What it means that reasoning can be bought by the minute like electricity, what an AI assistant such as Claude actually does when it answers...
+:::
+
+:::{card} Chapter 2: Asking Well: From Prompts to Briefs
+:link: ./chapters/ch02-asking-well-from-prompts-to-briefs.md
+
+Follow the second lab of the course. Why a vague request gets a vague answer, how to brief an assistant the way you would brief a capable new colleague (goal, context...
 :::
 
 ::::
