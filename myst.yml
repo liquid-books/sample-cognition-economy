@@ -1,0 +1,26 @@
+# MyST project configuration. Generated: edits here are overwritten.
+version: 1
+project:
+  title: "The Cognition Economy: A Sample Companion"
+  description: "A short sample of what CourseLabs writes from one of its own courses: two richly formatted chapters with generated illustrations, an in-class assignment and a hands-on lab in each, and a separate quiz per chapter."
+  authors:
+    - name: "Dr. Ernesto Lee"
+  copyright: "© 2026 learningscience.ai. All rights reserved."
+  github: https://github.com/liquid-books/sample-cognition-economy
+  numbering:
+    heading_1: true
+    heading_2: true
+    heading_3: true
+    figure: true
+    table: true
+    equation: true
+  toc:
+    - file: index.md
+site:
+  title: "The Cognition Economy: A Sample Companion"
+  options:
+    logo_text: "The Cognition Economy: A Sample Companion"
+    style: _theme/theme.css
+  parts:
+    footer: footer.md
+    primary_sidebar_footer: primary-sidebar-footer.md
